@@ -1,6 +1,5 @@
 ## Hi 👋 My name is Mbali Sithebe
 
-<!--
 💻 About Me
 
 Currently an Honours candidate at the University of the Witwatersrand, pursuing a BA in Digital Arts.
@@ -35,4 +34,3 @@ LinkedIn: www.linkedin.com/in/mbali-sithebe-80ba46297
 Discord: https://discordapp.com/users/1388802519848980612
 
 Portfolio: your-portfolio-link
--->
