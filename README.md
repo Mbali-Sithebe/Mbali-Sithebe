@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi 👋 My name is Mbali Sithebe
 
 <!--
-**Mbali-Sithebe/Mbali-Sithebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
 
-Here are some ideas to get you started:
+Currently an Honours candidate at the University of the Witwatersrand, pursuing a BA in Digital Arts.
+I am an Aspiring Website Developer, UI/UX Designer, and Virtual Reality Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 What I'm Working On
+
+Front-end web development projects
+
+3D/VR experiences, interactive digital environments and games
+
+UI/UX design for web and game interfaces
+
+Research and digital storytelling through immersive media
+
+🛠️ Tools & Technologies
+
+Frontend: HTML, CSS, JavaScript
+
+Design: Figma
+
+3D & VR: Unity, Blender, C#
+
+Version Control: Git & GitHub
+
+📫 How to Reach Me
+
+Email: mbaleeyenkosi@gmail.com
+
+LinkedIn: www.linkedin.com/in/mbali-sithebe-80ba46297
+
+Discord: https://discordapp.com/users/1388802519848980612
+
+Portfolio: your-portfolio-link
 -->
