@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Mbali Sithebe
 
-💻 About Me
+##💻 About Me
 
 Currently an Honours candidate at the University of the Witwatersrand, pursuing a BA in Digital Arts.
 I am an Aspiring Website Developer, UI/UX Designer, and Virtual Reality Developer.
