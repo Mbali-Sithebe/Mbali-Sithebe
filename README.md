@@ -1,11 +1,11 @@
 ## Hi 👋 My name is Mbali Sithebe
 
-<h2><strong><u>💻 About Me</u></strong></h2>
 
-Currently an Honours candidate at the University of the Witwatersrand, pursuing a BA in Digital Arts.
-I am an Aspiring Website Developer, UI/UX Designer, and Virtual Reality Developer.
+<h2><strong><u>Aspiring Front-End Developer | UI/UX Designer | Virtual Reality Developer</u></strong></h2>
 
-<br> <h2><strong><u>🚀 What I'm Working On</u></strong></h2>
+Currently an Honours candidate at the University of the Witwatersrand pursuing a BA in Digital Arts, I develop professional skills in website development, interactive design, and 3D/VR creation. As an aspiring Website Developer, I combine expertise in HTML, CSS, and JavaScript with UI/UX and 3D/VR experience to build intuitive, user-focused, and engaging digital experiences.
+
+<h2><strong><u>🚀 What I'm Working On</u></strong></h2>
 
 Front-end web development projects
 
@@ -15,7 +15,7 @@ UI/UX design for web and game interfaces
 
 Research and digital storytelling through immersive media
 
-<br> <h2><strong><u>🛠️ Tools & Technologies</u></strong></h2>
+<h2><strong><u>🛠️ Tools & Technologies</u></strong></h2>
 
 Frontend: HTML, CSS, JavaScript
 
@@ -25,7 +25,7 @@ Design: Figma
 
 Version Control: Git & GitHub
 
-<br> <h2><strong><u>📫 How to Reach Me</u></strong></h2>
+<h2><strong><u>📫 How to Reach Me</u></strong></h2>
 
 Email: mbaleeyenkosi@gmail.com
 
