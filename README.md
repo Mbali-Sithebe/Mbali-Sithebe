@@ -5,7 +5,7 @@
 
 Currently an Honours candidate at the University of the Witwatersrand pursuing a BA in Digital Arts, I develop professional skills in website development, interactive design, and 3D/VR creation. As an aspiring Website Developer, I combine expertise in HTML, CSS, React, and JavaScript with UI/UX and 3D/VR experience to build intuitive, user-focused, and engaging digital experiences.
 
-<h2><strong><u>What I'm Working On</u></strong></h2>
+<h2><strong><u>What I'm Working On:</u></strong></h2>
 
 Front-end web development projects
 
@@ -15,7 +15,7 @@ UI/UX design for web and game interfaces
 
 Research and digital storytelling through immersive media
 
-<h2><strong><u>Tools & Technologies</u></strong></h2>
+<h2><strong><u>Tools & Technologies:</u></strong></h2>
 
 Frontend: HTML, CSS, JavaScript, and React
 
