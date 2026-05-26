@@ -24,11 +24,3 @@ Design: Figma and Canva
 3D & VR: Unity, Blender, C#
 
 Version Control: Git & GitHub
-
-<h2><strong><u>How to Reach Me</u></strong></h2>
-
-Email: mbaleeyenkosi@gmail.com
-
-LinkedIn: www.linkedin.com/in/mbali-sithebe-80ba46297
-
-Discord: https://discordapp.com/users/1388802519848980612
