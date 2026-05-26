@@ -1,4 +1,4 @@
-## Hi 👋 My name is Mbali Sithebe
+## Hi, my name is Mbali Sithebe
 
 
 <h2><strong><u>Aspiring Front-End Developer | UI/UX Designer | Virtual Reality Developer</u></strong></h2>
