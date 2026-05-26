@@ -1,4 +1,4 @@
-## Mbali Sithebe — Front-End Developer & UI/UX Designer
+## Hi, I’m Mbali Sithebe.
 
 <h2><strong><u>Aspiring Front-End Developer | UI/UX Designer | Virtual Reality Developer</u></strong></h2>
 
