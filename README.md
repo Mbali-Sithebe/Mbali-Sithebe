@@ -1,6 +1,6 @@
 ## Hi, I’m Mbali Sithebe.
 
-<h2><strong><u>Aspiring Front-End Developer | UI/UX Designer | Virtual Reality Developer</u></strong></h2>
+<h2><strong><u>Aspiring Front-End Developer | UI/UX Designer | Virtual Reality Developer 👩🏾‍💻</u></strong></h2>
 
 Currently an Honours candidate at the University of the Witwatersrand pursuing a BA in Digital Arts, I develop professional skills in website development, interactive design, and 3D/VR creation. As an aspiring Website Developer, I combine expertise in HTML, CSS, React, and JavaScript with UI/UX and 3D/VR experience to build intuitive, user-focused, and engaging digital experiences.
 
